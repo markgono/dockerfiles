@@ -7,4 +7,5 @@ RUN apk add --no-cache \
   sudo \
   ca-certificates \
   rsync \
-  openssh
+  openssh \
+  git
